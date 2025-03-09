@@ -1,5 +1,4 @@
-//selecting all required elements
-// index.js
+
 const filterItem = document.querySelector(".items");
 const gallery = document.querySelector(".gallery");
 const previewBox = document.querySelector(".preview-box");
