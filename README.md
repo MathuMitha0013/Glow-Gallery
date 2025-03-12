@@ -13,7 +13,7 @@ A dynamic and responsive image gallery built with HTML, CSS, and JavaScript, fea
 * **Smooth Transitions and Animations:** Enhances user experience with subtle animations and transitions.
 ## How to Use:
 
- Visit the SwapUnit website: [https://mathumitha0013.github.io/Glow-Gallery/]
+ Visit the Glow Gallery website: [https://mathumitha0013.github.io/Glow-Gallery/]
 1.  Open the `index.html` file in your web browser.
 2.  Use the category filters to view images from specific categories.
 3.  Click on an image to open the preview lightbox.
